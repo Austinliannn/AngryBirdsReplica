@@ -13,10 +13,9 @@ Angry Birds Clone is a game where users are able to slingshot balls at bricks, k
 &nbsp; 2) p5.js --------> https://p5js.org/<br/>
 
 <h1>Demo of game being played:</h1> <br/>
-<video width="500" height="400" controls>
-  <source src="./video/Angrybirdclone.mp4" type="video/mp4">
+<video width="500" height="400">
+  <source src="./video/Angrybirdclone.mp4" type="video/mp4"/>
 </video>
-
 
 <!-- <h1>Start of game: Press 'r' to start the game</h1>
 <img src = "./Images/AngryBird1.jpg"/>
