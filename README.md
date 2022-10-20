@@ -15,6 +15,7 @@ Angry Birds Clone is a game where users are able to slingshot balls at bricks, k
 
 <h1>Start of game: Press 'r' to start the game</h1>
 ![alt text](./Images/AngryBird1.jpg)
+<img src = "./Images/AngryBird1.jpg"/>
 
 <h1>In game: Click on ball and drag, Release to launch the ball</h1>
 ![alt text](./Images/AngryBird2.jpg)
