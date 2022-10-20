@@ -20,7 +20,7 @@ Angry Birds Clone is a game where users are able to slingshot balls at bricks, k
 <img src = "./Images/AngryBird2.jpg"/>
 
 <h1>In game: After slingshotting the ball, bricks were knocked out</h1>
-<img src = "./Images/AngryBird3.jpg"/>
+<img src = "./Images/Angrybird3.jpg"/>
 
 <h1>End game: After bricks slingshotted out of the screen</h1>
 <img src = "./Images/AngryBird4.jpg"/>
